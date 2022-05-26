@@ -1,6 +1,5 @@
 package az.brains.shoppinglist.presentation
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import az.brains.shoppinglist.data.ShopListRepositoryImpl
 import az.brains.shoppinglist.domain.DeleteShopItemUseCase
